@@ -50,12 +50,12 @@ Then this:
 ⬛⬛⬜⬜⬜⬜⬜⬛
 and this:
 00111111
-00100110
-00100110
-00100110
-00100110
-00100110
-00100110
+01000110
+01000110
+01000110
+01000110
+01000110
+01000110
 00111110
 You can just press ctrl-H in windows, ctrl-R in linux, ctrl-F in quickedit(android) and find-replace
 Find ⬛ and replace to 0, find ⬜ and replace to 1
