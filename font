@@ -1,4 +1,4 @@
-//d/n means don't need to reverse
+//d/n means don't need to reverse, Only Reverse Line 126~161, 168~183, 253
 /*Hex	Binary
 		0	0000
 		1	0001
